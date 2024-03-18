@@ -1,7 +1,7 @@
 # Hospitality Data Analysis Project
 
 ## Strategic Plan for Hospitality Growth
-[Link to Power BI Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiZTk3NTI3ZGItNmMwZS00NWI4LWJjMTMtZTNhMTQ0Y2FjZjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+[Link to Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk3NTI3ZGItNmMwZS00NWI4LWJjMTMtZTNhMTQ0Y2FjZjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Data Optimization Strategy
 - Maintain high data quality by regularly checking and cleaning data.
